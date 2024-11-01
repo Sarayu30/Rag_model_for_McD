@@ -1,18 +1,18 @@
  
 ```markdown
-# Retrieval-Augmented Generation (RAG) System
+Retrieval-Augmented Generation (RAG) System
 
-## Overview
+Overview
 
 This project implements a Retrieval-Augmented Generation (RAG) system that combines information retrieval and generative modeling to answer user queries based on a nutritional dataset. The system uses Sentence Transformers for embedding retrieval and T5 for generating coherent responses.
 
-## Features
+Features
 
 - Dynamic Query Handling: Responds to user queries with contextually relevant answers.
 - Contextual Relevance: Retrieves specific information from the dataset to enhance response accuracy.
 - Interactive Interface: Engages users in a conversation-like manner through an interactive loop.
 
-## Requirements
+Requirements
 
 - Python 3.x
 - Libraries:
@@ -29,11 +29,11 @@ You can install the required libraries using pip:
 pip install pandas torch sentence-transformers transformers scikit-learn datasets
 ```
 
-## Dataset
+Dataset
 
 This project utilizes the **McDonald's Menu Nutrition** dataset, which provides nutritional information about various menu items. You can download it from [this link](https://www.kaggle.com/datasets/joebeachcapital/mcdonalds-nutrition/data) and place it in the project directory.
 
-## Usage
+ Usage
 
 1. Clone the repository:
 
@@ -56,12 +56,12 @@ python rag_system.py
 
 4. Interact with the system by entering your queries.
 
-## Example Queries
+Example Queries
 
 - "What are the calories in a cheeseburger?"
 - "How much protein does a Quarter Pounder with Cheese have?"
 
-## License
+ License
 
 MIT License
 
