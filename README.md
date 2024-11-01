@@ -31,7 +31,7 @@ pip install pandas torch sentence-transformers transformers scikit-learn dataset
 
 ## Dataset
 
-This project utilizes the **McDonald's Menu Nutrition** dataset, which provides nutritional information about various menu items. You can download it from [this link](URL_TO_DATASET) and place it in the project directory.
+This project utilizes the **McDonald's Menu Nutrition** dataset, which provides nutritional information about various menu items. You can download it from [this link](https://www.kaggle.com/datasets/joebeachcapital/mcdonalds-nutrition/data) and place it in the project directory.
 
 ## Usage
 
