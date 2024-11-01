@@ -8,9 +8,9 @@ This project implements a Retrieval-Augmented Generation (RAG) system that combi
 
 ## Features
 
-- **Dynamic Query Handling**: Responds to user queries with contextually relevant answers.
-- **Contextual Relevance**: Retrieves specific information from the dataset to enhance response accuracy.
-- **Interactive Interface**: Engages users in a conversation-like manner through an interactive loop.
+- Dynamic Query Handling: Responds to user queries with contextually relevant answers.
+- Contextual Relevance: Retrieves specific information from the dataset to enhance response accuracy.
+- Interactive Interface: Engages users in a conversation-like manner through an interactive loop.
 
 ## Requirements
 
